@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/one.js"],"names":["map","item"],"mappings":";;AAAA,CAAC,CAAD,EAAG,CAAH,EAAK,CAAL,EAAQA,GAAR,CAAY,UAAAC,IAAI;AAAA,SAAIA,IAAI,GAAG,CAAX;AAAA,CAAhB","sourcesContent":["[4,5,6].map(item => item + 1);"],"file":"one.js"}
